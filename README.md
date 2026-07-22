@@ -9,4 +9,4 @@ Slicers
 Conditional Formatting
 Key Insights:
 📌 Identified the highest-performing sales region. 📌 Tracked profit trends over time. 📌 Compared sales representatives' performance. 📌 Highlighted the most profitable products.
-![Dashboard1]()
+![Dashboard1](https://github.com/yasminkhalil21/portfolio/blob/main/WhatsApp%20Image%202026-07-22%20at%2010.20.17%20AM.jpeg)
