@@ -9,4 +9,4 @@ Slicers
 Conditional Formatting
 Key Insights:
 📌 Identified the highest-performing sales region. 📌 Tracked profit trends over time. 📌 Compared sales representatives' performance. 📌 Highlighted the most profitable products.
-
+![Dashboard1]()
